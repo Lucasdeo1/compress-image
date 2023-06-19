@@ -1,1 +1,4 @@
 
+#Here would be a folder named "node-modules" where files with dependencies needed to run 
+compress-image would be downloaded, files that you can download using the "npm's" available in the README. 
+Any questions or suggestions I will be at your disposal.
