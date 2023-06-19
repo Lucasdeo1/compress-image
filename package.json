@@ -1,0 +1,25 @@
+{
+  "name": "resizeimages",
+  "version": "1.0.0",
+  "description": "resize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lucasdeo1"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "gifsicle": "^5.2.1",
+    "install": "^0.13.0",
+    "npm": "^9.7.1",
+    "pngquant-bin": "^6.0.1",
+    "sharp": "^0.32.1"
+  },
+  "devDependencies": {
+    "compress-images": "^2.0.5"
+  }
+}
